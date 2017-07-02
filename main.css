@@ -49,11 +49,11 @@
     background-color: #4267b2;
     color: white;
 }
-	.ak {
+	.al {
   color: white !important;
   top:5px;
 }
-.ak img{
+.al img{
 
 	border: soid;
 	border-radius: 5px;
@@ -121,6 +121,26 @@ left: -5px;
 	position: relative;
 	bottom: 8px;
 	
-}	
+}
+
+.aj {
+	color: white !important;
+	position: relative;
+	right: -5px;
+}
+#sidebar {
+	    overflow: auto;
+	
+}
+#sidebar::-webkit-scrollbar {
+    display: none;
+}
+#menu {
+	    overflow: auto;
+	
+}
+#menu::-webkit-scrollbar {
+    display: none;
+}		
 
 
